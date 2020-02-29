@@ -55,8 +55,8 @@ p { line-height: 22px }
 .head-section .navbar-default { background-color: #fff }
 .head-section .nav li a,
 .head-section .nav li.active ul.dropdown-menu li a {
-    color: #999;
-    font-size: 14px;
+    color: rgba(44, 42, 42, 0.712);
+    font-size: 16px;
     font-weight: 300;
     background: none;
 }

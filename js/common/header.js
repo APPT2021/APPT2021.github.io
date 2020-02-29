@@ -1,7 +1,7 @@
 document.writeln("<header class=\'head-section\'>");
 document.writeln("      <div class=\'navbar navbar-default navbar-static-top container\'>");
 document.writeln("          <div class=\'navbar-header\'>");
-document.writeln("			  <button type=\'button\' class=\'navbar-toggle collapsed\' data-toggle=\'collapse\' data-target=\'#bs-example-navbar-collapse-1\'>");
+document.writeln("			  <button type=\'button\' class=\'navbar-toggle collapsed\'    ta-toggle=\'collapse\' data-target=\'#bs-example-navbar-collapse-1\'>");
 document.writeln("					<span class=\'sr-only\'>Toggle navigation</span>");
 document.writeln("					<span class=\'icon-bar\'></span>");
 document.writeln("					<span class=\'icon-bar\'></span>");
