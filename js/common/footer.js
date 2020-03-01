@@ -74,7 +74,7 @@ document.writeln("                    <ul class=\'social-link-footer list-unstyl
 document.writeln("                    </ul>");
 document.writeln("                </div>");
 document.writeln("                <div class=\'col-md-4\'>");
-document.writeln("                  <div class=\'copyright\'> <p>&copy; Copyright - SRDS 2020  - All Pictures from <a href=\'https://www.baidu.com/\' title=\'网页模板\' target=\'_blank\'>Internet</a></p>");
+document.writeln("                  <div class=\'copyright\'> <p>&copy; Copyright - APPT 2021  - All Pictures from <a href=\'https://www.baidu.com/\' title=\'网页模板\' target=\'_blank\'>Internet</a></p>");
 document.writeln("                  </div>");
 document.writeln("                </div>");
 document.writeln("            </div>");
