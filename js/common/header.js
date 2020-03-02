@@ -38,7 +38,7 @@ document.writeln("                  </li>");
 // document.writeln("				  <!-- SUBMISSION -->");
 // document.writeln("				  <li><a href=\'submission.html\'>Submission</a></li>");
 document.writeln("				  <!-- COMMITTEES -->");
-document.writeln("				  <li><a href=\'committees.html\'>comittees</a></li>");
+document.writeln("				  <li><a href=\'committees.html\'>Comittees</a></li>");
 document.writeln("                      <a hre>");
 document.writeln("                      </a>");
 document.writeln("                      <ul class=\'dropdown-menu\'>");
