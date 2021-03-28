@@ -3082,7 +3082,8 @@ img{
 .about-section .content-column .inner-column{
 	position: relative;
 	/* padding-top: 120px */
-	padding-right: 100px;
+	padding-right: 120px;
+	padding-left: 10px;
 	padding-top: 50px;
 	/* padding-right: 10px; */
 }
